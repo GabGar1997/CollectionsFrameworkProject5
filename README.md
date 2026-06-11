@@ -9,3 +9,7 @@ The user is also asked for a word to search the list for.
 Collection is an interface used to determine basic operations while Collections is a utility class full of static methods
 A class is a blueprint for creating objects that can be instantiated
 An interface is more of a set of rules a class can implement but can't be instantiated. 
+ArrayList 
+LinkedList 
+HashMap 
+HashSet
